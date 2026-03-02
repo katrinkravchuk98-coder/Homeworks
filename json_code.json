@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "id": 10120,
+      "name": "Natalia",
+      "address": {
+        "city": "Kharkiv",
+        "street": "Magistralna",
+        "building": 12,
+        "flat": 4
+      },
+      "contacts": {
+        "telephoneNumber": "0938764876",
+        "email": "natalimr1@gmail.com",
+        "telegramName": "Natali Kononiuk"
+      }
+    },
+    {
+      "id": 10220,
+      "name": "Viktor",
+      "address": {
+        "city": "Poltava",
+        "street": "Vokzalna",
+        "building": 3,
+        "flat": 27
+      },
+      "contacts": {
+        "telephoneNumber": "0962224561",
+        "email": "viktortr304@gmail.com",
+        "telegrameName": "Viktor Torv"
+      }
+    },
+    {
+      "id": 10320,
+      "name": "Anna",
+      "address": {
+        "city": "Lviv",
+        "street": "Virmenska",
+        "building": 12,
+        "flat": 45
+      },
+      "contacts": {
+        "telephoneNumber": "0637889546",
+        "email": "ansvitol45@gmail.com",
+        "telegramName": "Anna Svitolina"
+      }
+    },
+    {
+      "id": 10420,
+      "name": "Ivan",
+      "address": {
+        "city": "Zhytomyr",
+        "street": "Soborna",
+        "building": 5,
+        "flat": 77
+      },
+      "contacts": {
+        "telephoneNumber": "0975464531",
+        "email": "vanko4441@gmail.com",
+        "telegramName": "Vanya Livinskii"
+      }
+    }
+  ]
+}

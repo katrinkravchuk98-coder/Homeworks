@@ -1,0 +1,62 @@
+<customers>
+	<client>
+		<id>10120</id>
+		<name>Natalia</name>
+		<address>
+			<city>Kharkiv</city>
+			<street>Magistralna</street>
+			<building>12</building>
+			<flat>4</flat>
+		</address>
+		<contacts>
+			<telephoneNumber>0938764876</telephoneNumber>
+			<email>natalimr1@gmail.com</email>
+			<telegramName>Natali Kononiuk</telegramName>
+		</contacts>
+	</client>
+	<client>
+		<id>10220</id>
+		<name>Viktor</name>
+		<address>
+			<city>Poltava</city>
+			<street>Vokzalna</street>
+			<building>3</building>
+			<flat>27</flat>
+		</address>
+		<contacts>
+			<telephoneNumber>0962224561</telephoneNumber>
+			<email>viktortr304@gmail.com</email>
+			<telegranName>Viktor Torv</telegranName>
+		</contacts>
+	</client>
+	<client>
+		<id>10320</id>
+		<name>Anna</name>
+		<address>
+			<city>Lviv</city>
+			<street>Virmenska</street>
+			<building>12</building>
+			<flat>45</flat>
+		</address>
+		<contacts>
+			<telephoneNumber>0637889546</telephoneNumber>
+			<email>ansvitol45@gmail.com</email>
+			<telegramName>Anna Svitolina</telegramName>
+		</contacts>
+	</client>
+	<client>
+		<id>10420</id>
+		<name>Ivan</name>
+		<address>
+			<city>Zhytomyr</city>
+			<street>Soborna</street>
+			<building>5</building>
+			<flat>77</flat>
+		</address>
+		<contacts>
+			<telephoneNumber>0975464531</telephoneNumber>
+			<email>vanko444l@gmail.com</email>
+			<telegramName>Vanya Livinskii</telegramName>
+		</contacts>
+	</client>
+</customers>
